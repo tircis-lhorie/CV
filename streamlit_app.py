@@ -209,12 +209,11 @@ st.markdown('''
 
 st.markdown("")
 
-txt("**Power BI Analyst & Project Manager**, *SDS – Sony DepthSensing Solutions*",
+txt("**Power BI and Data Analyst **, *SDS – Sony DepthSensing Solutions*",
 "")
 st.markdown('''
 - Developed and maintained Power BI reports for financial, logistics, and operational monitoring.  
 - Implemented robust data models and associated governance processes.  
-- Managed BI projects, including coordination with internal and external stakeholders.
 ''')
 
 st.markdown("")
