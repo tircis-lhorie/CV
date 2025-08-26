@@ -21,12 +21,25 @@ with col2:
     ''')
 
 st.markdown("## Summary", unsafe_allow_html=True)
-st.info('''
-- **Business Intelligence consultant and researcher**, experienced in turning complex data into actionable insights for organizations.  
-- **Founder of TIRCIS**, a spin-off project that transforms traditional dashboards into **causal KPI networks** to anticipate the impact of managerial decisions.  
-- Strong background in **data analysis, functional design, and digital transformation**, with hands-on expertise in **Power BI, SQL, and Python**.  
-- Experienced speaker and trainer, passionate about sharing knowledge in **data governance, strategy maps, and data-driven decision-making**.  
-''')
+
+st.markdown(
+    """
+    <div style="
+        background-color: #CECECE;  
+        padding: 15px;
+        border-radius: 10px;
+        ">
+        <ul>
+            <li><b>Business Intelligence consultant and researcher</b>, experienced in turning complex data into actionable insights for organizations.</li>
+            <li><b>Founder of TIRCIS</b>, a spin-off project that transforms traditional dashboards into <b>causal KPI networks</b> to anticipate the impact of managerial decisions.</li>
+            <li>Strong background in <b>data analysis, functional design, and digital transformation</b>, with hands-on expertise in <b>Power BI, SQL, and Python</b>.</li>
+            <li>Experienced speaker and trainer, passionate about sharing knowledge in <b>data governance, strategy maps, and data-driven decision-making</b>.</li>
+        </ul>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
 
 #####################
 # Navigation
