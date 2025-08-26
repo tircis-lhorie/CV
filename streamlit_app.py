@@ -62,7 +62,7 @@ st.markdown("""
         <a class="nav-link" href="#consulting-projects">Consulting Projects</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#skills">Skills Tools</a>
+        <a class="nav-link" href="#skills">Skills</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#research">Research</a>
