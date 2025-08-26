@@ -112,16 +112,14 @@ st.markdown('''
 ## Education
 ''')
 
-txt("**Doctor of Management and Economics**, MINDIT Research Center, *University of Namur*, Belgium",
-'2018-2024')
+txt2('2018-2024', "**Doctor of Management and Economics**, MINDIT Research Center, *University of Namur*, Belgium")
 st.markdown('''
 - Research thesis entitled *Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*
 ''')
 
 st.markdown("")
 
-txt("**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium",
-'2016-2018')
+txt2('2016-2018', "**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium")
 st.markdown('''
 - Magna Cum Laude
 - One semester abroad at Universidad del Pacifico – Lima, Peru
@@ -129,8 +127,7 @@ st.markdown('''
 
 st.markdown("")
 
-txt("**Bachelors in Economics and Management Science**, *University of Namur*, Belgium",
-'2013-2016')
+txt2('2013-2016', "**Bachelors in Economics and Management Science**, *University of Namur*, Belgium")
 st.markdown('''
 - Cum Laude
 ''')
