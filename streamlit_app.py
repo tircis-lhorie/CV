@@ -50,10 +50,10 @@ st.markdown("""
         <a class="nav-link" href="#skills">Skills Tools</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#social-media">Social Media</a>
+        <a class="nav-link" href="#research">Research</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#research">Research</a>
+        <a class="nav-link" href="#contact-me">Contact Me</a>
       </li>
     </ul>
   </div>
@@ -223,13 +223,16 @@ st.markdown('''
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', 'Python, R, SQL, ')
-txt3('Data processing/wrangling', 'SQL, pandas, numpy')
-txt3('Data visualization', 'matplotlib, seaborn, plotly, altair, ggplot2')
-txt3('Machine Learning', 'scikit-learn')
-txt3('Deep Learning', 'TensorFlow')
-txt3('Web development', 'Flask, HTML, CSS')
-txt3('Model deployment', 'streamlit, gradio, R Shiny, Heroku, AWS, Digital Ocean')
+txt3('Programming', 'Python, R, SQL')
+txt3('Web development', 'PHP, HTML, CSS')
+txt3('Visualization and Analysis', 'Power BI, Tableau, Looker Studio, Python (matplotlib, seaborn), R (ggplot2)')
+txt3('Data Engineering', 'PostgreSQL, SQLServer')
+txt3('Database Management', 'Python (psycopg2), SSMS')
+txt3('Project Management', 'Agile (SCRUM), UML, BPMN, GANTT')
+txt3('Documentation and Reporting', 'LaTeX, MS Office, Google Suite, Jupyter Notebooks')
+txt3('(inter)Personal', 'Time Management, Leadership, Strong learning ability, Analytical mindset, Synthesis capability')
+txt3('Languages', 'French (Native), English (Fluent), Spanish (Intermediate level)')
+
 
 
 #####################
@@ -270,15 +273,9 @@ st.markdown("""Published scientific work:"
 
 #####################
 st.markdown('''
-## Social Media
+## Contact Me
 ''')
+
 txt2('LinkedIn', 'https://www.linkedin.com/in/chanin-nantasenamat')
-txt2('Twitter', 'https://twitter.com/thedataprof')
-txt2('GitHub', 'https://github.com/chaninn/')
-txt2('', 'https://github.com/chaninlab/')
-txt2('', 'https://github.com/dataprofessor')
 txt2('ORCID', 'http://orcid.org/0000-0003-1040-663X')
 txt2('Scopus', 'http://www.scopus.com/authid/detail.url?authorId=12039071300')
-txt2('ResearcherID', 'http://www.researcherid.com/rid/F-1021-2010')
-txt2('ResearchGate', 'https://www.researchgate.net/profile/Chanin_Nantasenamat')
-txt2('Publons', 'https://publons.com/a/303133/')
