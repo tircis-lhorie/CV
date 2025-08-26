@@ -72,7 +72,7 @@ def txt(a, b):
 def txt2(a, b):
   col1, col2 = st.columns([1,4])
   with col1:
-    st.markdown(f'`{a}`')
+    st.markdown(a)
   with col2:
     st.markdown(b)
 
@@ -86,7 +86,7 @@ def txt3(a, b):
 def txt4(a, b, c):
   col1, col2, col3 = st.columns([1.5,2,2])
   with col1:
-    st.markdown(f'`{a}`')
+    st.markdown(a)
   with col2:
     st.markdown(b)
   with col3:
@@ -253,7 +253,7 @@ txt3('Data Engineering', 'PostgreSQL, SQLServer')
 txt3('Database Management', 'Python (psycopg2), SSMS')
 txt3('Project Management', 'Agile (SCRUM), UML, BPMN, GANTT')
 txt3('Documentation and Reporting', 'LaTeX, MS Office, Google Suite, Jupyter Notebooks')
-txt3('(inter)Personal', 'Time Management, Leadership, Strong learning ability, Analytical mindset, Synthesis capability')
+txt3('Interpersonal', 'Time Management, Leadership, Strong learning ability, Analytical mindset, Synthesis capability')
 txt3('Languages', 'French (Native), English (Fluent), Spanish (Intermediate level)')
 
 
@@ -264,7 +264,7 @@ st.markdown('''
 ''')
 
 st.markdown("My thesis research entitled “Exploring Causalities in Strategic and Performance Management – A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge” aimed to create a network view of the indicators and understand the cause-and-effect relationships between them, helping managers make more informed decisions about their strategy.")
-st.markdown("""Published scientific work:"
+st.markdown("""Published scientific work:
 
 - **Pirnay, L. & Burnay, C. (2021, June).**  
   *Data-Driven Strategy Maps: A Hybrid Approach to Strategic and Performance Management Combining Hard Data and Experts’ Knowledge.*  
