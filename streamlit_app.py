@@ -103,12 +103,16 @@ st.markdown('''
 - Research thesis entitled *Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*
 ''')
 
+st.markdown()
+
 txt("**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium",
 '2016-2018')
 st.markdown('''
 - Magna Cum Laude
 - One semester abroad at Universidad del Pacifico – Lima, Peru
 ''')
+
+st.markdown()
 
 txt("**Bachelors in Economics and Management Science**, *University of Namur*, Belgium",
 '2013-2016')
@@ -124,26 +128,32 @@ st.markdown('''
 txt("**Post-doctoral Researcher**, MINDIT Research Center, *University of Namur*, Belgium",
 "2024 - present")
 st.markdown('''
-- Conducted applied research in **Business Analysis and Data Integration**.  
-- Awarded the **Win4SpinOff grant** to prepare the creation of a university spin-off, focusing on innovative approaches to Business Intelligence and causal analysis.  
-- Collaborated with multidisciplinary teams to align research outcomes with **practical business applications**.  
-- Published results and presented findings at both **academic conferences** and **industry-oriented events**.  
+- Conducted applied research in Business Analysis and Data Integration.  
+- Awarded the Win4SpinOff grant to prepare the creation of a university spin-off, focusing on innovative approaches to Business Intelligence and causal analysis.  
+- Collaborated with multidisciplinary teams to align research outcomes with practical business applications.  
+- Published results and presented findings at both academic conferences and industry-oriented events.  
 ''')
+
+st.markdown()
 
 txt("**Co-founder**, *TIRCIS Spin-Off Project*, Namur, Belgium",
 "2024 - present")
 st.markdown('''
-- Co-founded **TIRCIS**, a project transforming **Business Intelligence dashboards** into **causal-network insights**.  
-- Developed an innovative approach to **anticipate and visualize the impact of managerial decisions** through interconnected KPIs.  
+- Co-founded TIRCIS, a project transforming Business Intelligence dashboards into causal-network insights.  
+- Developed an innovative approach to anticipate and visualize the impact of managerial decisions through interconnected KPIs.  
 - Engaged with partners and clients to validate the solution’s added value for strategic decision-making.  
-- Explore more: [🌐 Website](https://tircis.be) | [💼 LinkedIn](https://www.linkedin.com/company/tircis)
+- Explore more: [Website](https://tircis.be) | [LinkedIn](https://www.linkedin.com/company/tircis)
 ''')
+
+st.markdown()
 
 txt("**BI Analyst Freelance**, *LP&GD Consult SRL*, Belgium",
 "2024 - present")
 st.markdown('''
-- Founded my own consulting company, delivering services as **Business Analyst**, **BI Analyst**, and **Data Analyst** (functional analysis, dashboards, and strategic decision support).
+- Founded my own consulting company, delivering services as Business Analyst, BI Analyst, and Data Analyst (functional analysis, dashboards, and strategic decision support).
 ''')
+
+st.markdown()
 
 txt("**Teaching Assistant**, *University of Namur*, Belgium",
 "2018 - 2023")
@@ -158,6 +168,8 @@ Teaching assistant for the following courses:
 - Simulation course: Business Game
 ''')
 
+st.markdown()
+
 txt("**Chair of the board**, *AFS Programmes Interculturels*, Belgium",
 "2021 - 2025")
 st.markdown('''
@@ -167,6 +179,8 @@ AFS is a non-profit organization specializing in intercultural learning for youn
 - Vice chair (2023)
 - Chair (2024)
 ''')
+
+st.markdown()
 
 txt("**Board member and secretary**, *Fondation AFS Stichting*, Belgium",
 "2022 - 2024")
@@ -182,38 +196,47 @@ st.markdown('''
 txt("**Functional Analyst**, *Digitalcity.Brussels*, Brussels, Belgium",
 "2023 - present")
 st.markdown('''
-- Designed and followed up the development of an **internal management tool**.  
+- Designed and followed up the development of an internal management tool.  
 - Collaborated with business teams to gather requirements and translate them into detailed specifications.  
 - Contributed to the optimization of internal processes through digitalization.
 ''')
 
+st.markdown()
+
 txt("**Power BI Analyst & Project Manager**, *SDS – Sony DepthSensing Solutions*, Brussels, Belgium",
 "2022 - present")
 st.markdown('''
-- Developed and maintained **Power BI reports** for financial, logistics, and operational monitoring.  
-- Implemented **robust data models** and associated governance processes.  
+- Developed and maintained Power BI reports for financial, logistics, and operational monitoring.  
+- Implemented robust data models and associated governance processes.  
 - Managed BI projects, including coordination with internal and external stakeholders.
 ''')
+
+st.markdown()
+
 
 txt("**Power BI Consultant**, *EPHEC*, Brussels, Belgium",
 "2022")
 st.markdown('''
-- Delivered a full **Power BI project**: data modeling, report creation, and insights presentation.  
+- Delivered a full Power BI project: data modeling, report creation, and insights presentation.  
 - Trained users on reading and interpreting dashboards effectively.
 ''')
+
+st.markdown()
 
 txt("**BI Consultant**, *skeyes (ex-Belgocontrol)*, Brussels, Belgium",
 "2021")
 st.markdown('''
-- Provided advice on **KPI interaction visualizations** for the *Strategic Performance Management* unit.  
+- Provided advice on KPI interaction visualizations for the *Strategic Performance Management* unit.  
 - Proposed an innovative visual model to support strategic decision-making.
 ''')
+
+st.markdown()
 
 txt("**Data Visualization Consultant**, *DataLab (King Baudouin Foundation & Greenpeace)*, Belgium",
 "2021")
 st.markdown('''
-- Built a **visualization tool** for the *3-30-300 method*.  
-- Assessed **citizens’ well-being** across the Belgian territory.  
+- Built a visualization tool for the *3-30-300 method*.  
+- Assessed citizens’ well-being across the Belgian territory.  
 - Collaborated with public and non-profit actors to highlight social and environmental impact.
 ''')
 
