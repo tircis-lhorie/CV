@@ -258,7 +258,7 @@ txt3('Visualization and Analysis', 'Power BI, Tableau, Looker Studio, Python (ma
 txt3('Data Engineering', 'PostgreSQL, SQLServer')
 txt3('Database Management', 'Python (psycopg2), SSMS')
 txt3('Project Management', 'Agile (SCRUM), UML, BPMN, GANTT')
-txt3('Documentation and Reporting', 'LaTeX, MS Office, Google Suite, Jupyter Notebooks')
+txt3('Documentation and Reporting', 'LaTeX, MS Office, Google Suite, Jupyter Notebooks, Github')
 txt3('Interpersonal', 'Time Management, Leadership, Strong learning ability, Analytical mindset, Synthesis capability')
 txt3('Languages', 'French (Native), English (Fluent), Spanish (Intermediate level)')
 
