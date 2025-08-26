@@ -103,7 +103,7 @@ st.markdown('''
 - Research thesis entitled *Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium",
 '2016-2018')
@@ -112,7 +112,7 @@ st.markdown('''
 - One semester abroad at Universidad del Pacifico – Lima, Peru
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Bachelors in Economics and Management Science**, *University of Namur*, Belgium",
 '2013-2016')
@@ -134,7 +134,7 @@ st.markdown('''
 - Published results and presented findings at both academic conferences and industry-oriented events.  
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Co-founder**, *TIRCIS Spin-Off Project*, Namur, Belgium",
 "2024 - present")
@@ -145,7 +145,7 @@ st.markdown('''
 - Explore more: [Website](https://tircis.be) | [LinkedIn](https://www.linkedin.com/company/tircis)
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**BI Analyst Freelance**, *LP&GD Consult SRL*, Belgium",
 "2024 - present")
@@ -153,7 +153,7 @@ st.markdown('''
 - Founded my own consulting company, delivering services as Business Analyst, BI Analyst, and Data Analyst (functional analysis, dashboards, and strategic decision support).
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Teaching Assistant**, *University of Namur*, Belgium",
 "2018 - 2023")
@@ -168,7 +168,7 @@ Teaching assistant for the following courses:
 - Simulation course: Business Game
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Chair of the board**, *AFS Programmes Interculturels*, Belgium",
 "2021 - 2025")
@@ -180,7 +180,7 @@ AFS is a non-profit organization specializing in intercultural learning for youn
 - Chair (2024)
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Board member and secretary**, *Fondation AFS Stichting*, Belgium",
 "2022 - 2024")
@@ -201,7 +201,7 @@ st.markdown('''
 - Contributed to the optimization of internal processes through digitalization.
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Power BI Analyst & Project Manager**, *SDS – Sony DepthSensing Solutions*, Brussels, Belgium",
 "2022 - present")
@@ -211,7 +211,7 @@ st.markdown('''
 - Managed BI projects, including coordination with internal and external stakeholders.
 ''')
 
-st.markdown()
+st.markdown("")
 
 
 txt("**Power BI Consultant**, *EPHEC*, Brussels, Belgium",
@@ -221,7 +221,7 @@ st.markdown('''
 - Trained users on reading and interpreting dashboards effectively.
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**BI Consultant**, *skeyes (ex-Belgocontrol)*, Brussels, Belgium",
 "2021")
@@ -230,7 +230,7 @@ st.markdown('''
 - Proposed an innovative visual model to support strategic decision-making.
 ''')
 
-st.markdown()
+st.markdown("")
 
 txt("**Data Visualization Consultant**, *DataLab (King Baudouin Foundation & Greenpeace)*, Belgium",
 "2021")
