@@ -146,6 +146,34 @@ st.markdown('''
 - Provided **strategic insights** and **operational solutions** tailored to clients’ digital transformation needs.  
 ''')
 
+txt("**Teaching Assistant**, *University of Namur*, Belgium",
+"2018 - 2023")
+st.markdown('''
+Teaching assistant for the following courses:
+- Operations Research
+- Probability and Statistical Inference
+- Mathematics for Economics and Management II
+- Mathematics for Economics and Management III
+- Operations Management and Business Logistics
+- Bloc-1 Project: Integrated Teaching Unit
+- Simulation course: Business Game
+''')
+
+txt("**Chair of the board**, *AFS Programmes Interculturels*, Belgium",
+"2021 - 2025")
+st.markdown('''
+AFS is a non-profit organization specializing in intercultural learning for young people. It mainly focuses on hosting and sending youths on exchange programs abroad. Here are the various roles I have held within the organization:
+- Member (2021)
+- Secretary (2022)
+- Vice chair (2023)
+- Chair (2024)
+''')
+
+txt("**Board member and secretary**, *Fondation AFS Stichting*, Belgium",
+"2022 - 2024")
+st.markdown('''
+FAFSS is a companion foundation for the non-profit AFS organization, accredited by the King Baudouin’s Foundation.
+''')
 
 
 #####################
