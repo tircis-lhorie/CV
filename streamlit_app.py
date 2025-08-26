@@ -44,10 +44,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#research">Work Experience</a>
+        <a class="nav-link" href="#research">Research</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#skills">Bioinformatics Tools</a>
+        <a class="nav-link" href="#skills">Skills Tools</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
@@ -97,7 +97,7 @@ st.markdown('''
 txt("**Doctor of Managemet and Economics** (Management of Information and Digital Transformation), *University of Namur*, Belgium",
 '2018-2024')
 st.markdown('''
-- Research thesis entitled `*Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*`.
+- Research thesis entitled *Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*
 ''')
 
 txt("**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium",
