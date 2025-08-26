@@ -44,7 +44,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#bioinformatics-tools">Bioinformatics Tools</a>
+        <a class="nav-link" href="#research">Work Experience</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#skills">Bioinformatics Tools</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
@@ -91,20 +94,22 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Doctor of Philosophy** (Medical Technology), *Mahidol University*, Thailand',
-'2002-2006')
+txt('**Doctor of Managemet and Economics** (Management of Information and Digital Transformation), *University of Namur*, Belgium',
+'2018-2024')
 st.markdown('''
-- GPA: `3.89`
-- Research thesis entitled `Computer-aided molecular design for biological and chemical applications : Quantum chemical and machine learning approach`.
-- Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
-- Thesis awarded `1st` Prize by the National Research Council of Thailand.
+- Research thesis entitled `*Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*`.
 ''')
 
-txt('**Bachelors of Science** (Biological Science), *Mahidol University International College*, Thailand',
-'1998-2002')
+txt('**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium',
+'2016-2018')
 st.markdown('''
-- GPA: `3.65`
-- Graduated with First Class Honors.
+- Magna Cum Laude
+''')
+
+txt('**Bachelors in Economics and Management Science**, *University of Namur*, Belgium',
+'2013-2016')
+st.markdown('''
+- Cum Laude
 ''')
 
 #####################
