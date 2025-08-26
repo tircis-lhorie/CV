@@ -7,16 +7,13 @@ with open("style.css") as f:
 #####################
 # Header 
 
-col1, col2, spacer = st.columns(3)
+image = Image.open('image/picture.jpeg')
+st.image(image, width=150)
 
-with col1:
-    image = Image.open('image/picture.jpeg')
-    st.image(image, width=150)
-with col2:
-    st.write('''
-    # Lhorie PIRNAY, Ph.D.
-    ##### *Resume* 
-    ''')
+st.write('''
+# Lhorie PIRNAY, Ph.D.
+##### *Resume* 
+''')
 
 st.markdown("## Summary", unsafe_allow_html=True)
 
