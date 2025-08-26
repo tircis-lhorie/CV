@@ -1,8 +1,6 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(layout="wide")
-
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
 
@@ -145,8 +143,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt("**Post-doctoral Researcher**, MINDIT Research Center, *University of Namur*, Belgium",
-"2024 - present")
+txt("2024 - present", "**Post-doctoral Researcher**, MINDIT Research Center, *University of Namur*, Belgium")
 st.markdown('''
 - Conducted applied research in Business Analysis and Data Integration.  
 - Awarded the Win4SpinOff grant to prepare the creation of a university spin-off, focusing on innovative approaches to Business Intelligence and causal analysis.  
@@ -156,8 +153,7 @@ st.markdown('''
 
 st.markdown("")
 
-txt("**Co-founder**, *TIRCIS Spin-Off Project*, Namur, Belgium",
-"2024 - present")
+txt("2024 - present", "**Co-founder**, *TIRCIS Spin-Off Project*, Namur, Belgium")
 st.markdown('''
 - Co-founded TIRCIS, a project transforming Business Intelligence dashboards into causal-network insights.  
 - Developed an innovative approach to anticipate and visualize the impact of managerial decisions through interconnected KPIs.  
@@ -167,16 +163,14 @@ st.markdown('''
 
 st.markdown("")
 
-txt("**BI Analyst Freelance**, *LP&GD Consult SRL*, Belgium",
-"2024 - present")
+txt("2024 - present", "**BI Analyst Freelance**, *LP&GD Consult SRL*, Belgium")
 st.markdown('''
 - Founded my own consulting company, delivering services as Business Analyst, BI Analyst, and Data Analyst (functional analysis, dashboards, and strategic decision support).
 ''')
 
 st.markdown("")
 
-txt("**Teaching Assistant**, *University of Namur*, Belgium",
-"2018 - 2023")
+txt("2018 - 2023", "**Teaching Assistant**, *University of Namur*, Belgium")
 st.markdown('''
 Teaching assistant for the following courses:
 - Operations Research
@@ -190,8 +184,7 @@ Teaching assistant for the following courses:
 
 st.markdown("")
 
-txt("**Chair of the board**, *AFS Programmes Interculturels*, Belgium",
-"2021 - 2025")
+txt("2021 - 2025", "**Chair of the board**, *AFS Programmes Interculturels*, Belgium")
 st.markdown('''
 AFS is a non-profit organization specializing in intercultural learning for young people. It mainly focuses on hosting and sending youths on exchange programs abroad. Here are the various roles I have held within the organization:
 - Member (2021)
@@ -202,8 +195,7 @@ AFS is a non-profit organization specializing in intercultural learning for youn
 
 st.markdown("")
 
-txt("**Board member and secretary**, *Fondation AFS Stichting*, Belgium",
-"2022 - 2024")
+txt("2022 - 2024", "**Board member and secretary**, *Fondation AFS Stichting*, Belgium")
 st.markdown('''
 FAFSS is a companion foundation for the non-profit AFS organization, accredited by the King Baudouin’s Foundation.
 ''')
