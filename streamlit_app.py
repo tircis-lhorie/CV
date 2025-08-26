@@ -104,6 +104,7 @@ txt("**Master's Degree in Business Analysis and Integration**, *University of Na
 '2016-2018')
 st.markdown('''
 - Magna Cum Laude
+- One semester abroad at Universidad del Pacifico – Lima, Peru
 ''')
 
 txt("**Bachelors in Economics and Management Science**, *University of Namur*, Belgium",
