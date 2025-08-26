@@ -94,7 +94,7 @@ st.markdown('''
 ## Education
 ''')
 
-txt("**Doctor of Managemet and Economics** (Management of Information and Digital Transformation), *University of Namur*, Belgium",
+txt("**Doctor of Management and Economics** (Management of Information and Digital Transformation), *University of Namur*, Belgium",
 '2018-2024')
 st.markdown('''
 - Research thesis entitled *Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*
