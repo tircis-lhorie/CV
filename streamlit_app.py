@@ -25,7 +25,7 @@ st.markdown("## Summary", unsafe_allow_html=True)
 st.markdown(
     """
     <div style="
-        background-color: #CECECE;  
+        background-color: #F0F0F2;  
         padding: 15px;
         border-radius: 10px;
         ">
