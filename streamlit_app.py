@@ -15,7 +15,7 @@ with col1:
     image = Image.open('image/picture.jpeg')
     st.image(image, width=150)
 with col2:
-    st.mardown('''
+    st.write('''
     # Lhorie PIRNAY, Ph.D.
     ##### *Resume* 
     ''')
