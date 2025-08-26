@@ -253,7 +253,7 @@ st.markdown('''
 ## Skills
 ''')
 txt3('Programming', 'Python, R, SQL')
-txt3('Web development', 'PHP, HTML, CSS')
+txt3('Web development', 'PHP, HTML, CSS, python (streamlit)')
 txt3('Visualization and Analysis', 'Power BI, Tableau, Looker Studio, Python (matplotlib, seaborn), R (ggplot2)')
 txt3('Data Engineering', 'PostgreSQL, SQLServer')
 txt3('Database Management', 'Python (psycopg2), SSMS')
