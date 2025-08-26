@@ -94,7 +94,7 @@ st.markdown('''
 ## Education
 ''')
 
-txt("**Doctor of Management and Economics** (Management of Information and Digital Transformation), *University of Namur*, Belgium",
+txt("**Doctor of Management and Economics**, MINDIT Research Center, *University of Namur*, Belgium",
 '2018-2024')
 st.markdown('''
 - Research thesis entitled *Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*
@@ -118,7 +118,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt("**Post-doctoral Researcher**, MINDIT Research Center, University of Namur, Belgium",
+txt("**Post-doctoral Researcher**, MINDIT Research Center, *University of Namur*, Belgium",
 "2024 - present")
 st.markdown('''
 - Conducted applied research in **Business Analysis and Data Integration**.  
