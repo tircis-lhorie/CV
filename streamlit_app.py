@@ -193,8 +193,8 @@ st.markdown('''
 ## Consulting Projects
 ''')
 
-txt("**Functional Analyst**, *Digitalcity.Brussels*, Brussels, Belgium",
-"2023 - present")
+txt("**Functional Analyst**, *Digitalcity.Brussels*",
+"Dec. 2024 - present")
 st.markdown('''
 - Designed and followed up the development of an internal management tool.  
 - Collaborated with business teams to gather requirements and translate them into detailed specifications.  
@@ -203,8 +203,8 @@ st.markdown('''
 
 st.markdown("")
 
-txt("**Power BI Analyst & Project Manager**, *SDS – Sony DepthSensing Solutions*, Brussels, Belgium",
-"2022 - present")
+txt("**Power BI Analyst & Project Manager**, *SDS – Sony DepthSensing Solutions*",
+"Nov. 2024 - present")
 st.markdown('''
 - Developed and maintained Power BI reports for financial, logistics, and operational monitoring.  
 - Implemented robust data models and associated governance processes.  
@@ -214,8 +214,8 @@ st.markdown('''
 st.markdown("")
 
 
-txt("**Power BI Consultant**, *EPHEC*, Brussels, Belgium",
-"2022")
+txt("**Power BI Consultant**, *EPHEC*",
+"August 2024")
 st.markdown('''
 - Delivered a full Power BI project: data modeling, report creation, and insights presentation.  
 - Trained users on reading and interpreting dashboards effectively.
@@ -223,8 +223,8 @@ st.markdown('''
 
 st.markdown("")
 
-txt("**BI Consultant**, *skeyes (ex-Belgocontrol)*, Brussels, Belgium",
-"2021")
+txt("**BI Consultant**, *skeyes (ex-Belgocontrol)*",
+"2021-2024")
 st.markdown('''
 - Provided advice on KPI interaction visualizations for the *Strategic Performance Management* unit.  
 - Proposed an innovative visual model to support strategic decision-making.
@@ -232,8 +232,8 @@ st.markdown('''
 
 st.markdown("")
 
-txt("**Data Visualization Consultant**, *DataLab (King Baudouin Foundation & Greenpeace)*, Belgium",
-"2021")
+txt("**Data Visualization Consultant**, *DataLab (King Baudouin Foundation)*",
+"2024")
 st.markdown('''
 - Built a visualization tool for the *3-30-300 method*.  
 - Assessed citizens’ well-being across the Belgian territory.  
