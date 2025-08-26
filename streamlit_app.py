@@ -44,6 +44,9 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="#consulting-projects">Consulting Projects</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="#skills">Skills Tools</a>
       </li>
       <li class="nav-item">
@@ -139,11 +142,7 @@ st.markdown('''
 txt("**BI Analyst Freelance**, *LP&GD Consult SRL*, Belgium",
 "2024 - present")
 st.markdown('''
-- Founded my own consulting company, delivering services as **Business Analyst**, **BI Analyst**, and **Data Analyst** (functional analysis, dashboards, and strategic decision support).  
-- Worked with multiple clients including:  
-  - **DigitalCity.brussels** – functional analysis and project management for the Nexus platform (training, conferences, ticketing, billing).  
-  - **SONY Depthsensing Solutions** – Business Intelligence dashboards, Finance stack redesign, and advanced data modeling.  
-- Provided **strategic insights** and **operational solutions** tailored to clients’ digital transformation needs.  
+- Founded my own consulting company, delivering services as **Business Analyst**, **BI Analyst**, and **Data Analyst** (functional analysis, dashboards, and strategic decision support).
 ''')
 
 txt("**Teaching Assistant**, *University of Namur*, Belgium",
@@ -175,18 +174,62 @@ st.markdown('''
 FAFSS is a companion foundation for the non-profit AFS organization, accredited by the King Baudouin’s Foundation.
 ''')
 
+#####################
+st.markdown('''
+## Consulting Projects
+''')
+
+txt("**Functional Analyst**, *Digitalcity.Brussels*, Brussels, Belgium",
+"2023 - present")
+st.markdown('''
+- Designed and followed up the development of an **internal management tool**.  
+- Collaborated with business teams to gather requirements and translate them into detailed specifications.  
+- Contributed to the optimization of internal processes through digitalization.
+''')
+
+txt("**Power BI Analyst & Project Manager**, *SDS – Sony DepthSensing Solutions*, Brussels, Belgium",
+"2022 - present")
+st.markdown('''
+- Developed and maintained **Power BI reports** for financial, logistics, and operational monitoring.  
+- Implemented **robust data models** and associated governance processes.  
+- Managed BI projects, including coordination with internal and external stakeholders.
+''')
+
+txt("**Power BI Consultant**, *EPHEC*, Brussels, Belgium",
+"2022")
+st.markdown('''
+- Delivered a full **Power BI project**: data modeling, report creation, and insights presentation.  
+- Trained users on reading and interpreting dashboards effectively.
+''')
+
+txt("**BI Consultant**, *skeyes (ex-Belgocontrol)*, Brussels, Belgium",
+"2021")
+st.markdown('''
+- Provided advice on **KPI interaction visualizations** for the *Strategic Performance Management* unit.  
+- Proposed an innovative visual model to support strategic decision-making.
+''')
+
+txt("**Data Visualization Consultant**, *DataLab (King Baudouin Foundation & Greenpeace)*, Belgium",
+"2021")
+st.markdown('''
+- Built a **visualization tool** for the *3-30-300 method*.  
+- Assessed **citizens’ well-being** across the Belgian territory.  
+- Collaborated with public and non-profit actors to highlight social and environmental impact.
+''')
+
+
 
 #####################
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `R`, `Linux`')
-txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
-txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `altair`, `ggplot2`')
-txt3('Machine Learning', '`scikit-learn`')
-txt3('Deep Learning', '`TensorFlow`')
-txt3('Web development', '`Flask`, `HTML`, `CSS`')
-txt3('Model deployment', '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`')
+txt3('Programming', 'Python, R, SQL, ')
+txt3('Data processing/wrangling', 'SQL, pandas, numpy')
+txt3('Data visualization', 'matplotlib, seaborn, plotly, altair, ggplot2')
+txt3('Machine Learning', 'scikit-learn')
+txt3('Deep Learning', 'TensorFlow')
+txt3('Web development', 'Flask, HTML, CSS')
+txt3('Model deployment', 'streamlit, gradio, R Shiny, Heroku, AWS, Digital Ocean')
 
 
 #####################
