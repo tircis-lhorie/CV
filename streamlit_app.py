@@ -44,13 +44,13 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#research">Research</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="#skills">Skills Tools</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#research">Research</a>
       </li>
     </ul>
   </div>
@@ -159,6 +159,41 @@ txt3('Machine Learning', '`scikit-learn`')
 txt3('Deep Learning', '`TensorFlow`')
 txt3('Web development', '`Flask`, `HTML`, `CSS`')
 txt3('Model deployment', '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`')
+
+
+#####################
+st.markdown('''
+## Research
+''')
+
+st.markdown("My thesis research entitled “Exploring Causalities in Strategic and Performance Management – A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge” aimed to create a network view of the indicators and understand the cause-and-effect relationships between them, helping managers make more informed decisions about their strategy.")
+st.markdown("""Published scientific work:"
+
+- **Pirnay, L. & Burnay, C. (2021, June).**  
+  *Data-Driven Strategy Maps: A Hybrid Approach to Strategic and Performance Management Combining Hard Data and Experts’ Knowledge.*  
+  In Proceedings of the Doctoral Consortium Papers Presented at the 33rd International Conference on Advanced Information Systems Engineering (CAiSE’21).
+
+- **Pirnay, L., & Burnay, C. (2022).**  
+  *How to build data-driven Strategy Maps? A methodological framework proposition.*  
+  Data & Knowledge Engineering, 139, 102019.
+
+- **Pirnay, L., & Burnay, C. (2021, May).**  
+  *Data-Driven Causalities for Strategy Maps.*  
+  In International Conference on Research Challenges in Information Science. Springer, Cham, pp.409–417.
+
+- **Pirnay, L., Deventer, C., & Amaral de Sousa, V. (2023).**  
+  *Providing Customer Value through Non-Fungible Tokens: A Preliminary Study.*  
+  Published in The 56th Hawaii International Conference on System Sciences (HICSS56).
+
+- **Deventer, C., Amaral de Sousa, V. & Pirnay, L. (2024).**  
+  *NFTByBrands: A Proposed-Value Framework for Analysis and Design of NFT Initiatives.*  
+  Full-length paper currently under review in the *International Journal of Electronic Commerce*.
+
+- **Lega, M., Giunta, B., Pirnay, L., Simonofski, A., & Burnay, C. (2024).**  
+  *Reducing information overload in e-participation: A data-driven prioritization framework for policy-makers.*  
+  International Journal of Information Management Data Insights, 4(2), 100264.
+""")
+
 
 
 
