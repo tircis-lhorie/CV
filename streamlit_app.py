@@ -94,19 +94,19 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Doctor of Managemet and Economics** (Management of Information and Digital Transformation), *University of Namur*, Belgium',
+txt("**Doctor of Managemet and Economics** (Management of Information and Digital Transformation), *University of Namur*, Belgium",
 '2018-2024')
 st.markdown('''
 - Research thesis entitled `*Exploring Causalities in Strategic and Performance Management: A Methodological Framework Proposition to Integrate Hard Data and Experts' Knowledge*`.
 ''')
 
-txt('**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium',
+txt("**Master's Degree in Business Analysis and Integration**, *University of Namur*, Belgium",
 '2016-2018')
 st.markdown('''
 - Magna Cum Laude
 ''')
 
-txt('**Bachelors in Economics and Management Science**, *University of Namur*, Belgium',
+txt("**Bachelors in Economics and Management Science**, *University of Namur*, Belgium",
 '2013-2016')
 st.markdown('''
 - Cum Laude
